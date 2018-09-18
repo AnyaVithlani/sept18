@@ -3,10 +3,6 @@ This is my new repo for testing git
 
 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-
-
-
 Action | Frequency of Use                      | Command Line Git Bash
 -------|---------------------------------------|------------------
 Push   |when wanting to push changes to github | git push
@@ -15,3 +11,4 @@ Commit |stores changes ready to push           | git commit
 Clone  |to get a copy of existing repository   | git clone Https:...
 
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
